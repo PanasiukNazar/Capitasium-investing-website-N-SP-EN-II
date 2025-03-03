@@ -232,6 +232,9 @@ strong {
   transform: translateY(10px);
 }
 
+
+
+
 .navbar-nav .nav-link:hover::after {
   opacity: 1;
   -webkit-transform: translateY(0px);
